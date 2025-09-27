@@ -2,7 +2,7 @@
 
 A modern, responsive homepage for a fictional IELTS Institute built with **React + Vite + Tailwind CSS**.
 
-## 🚀 Quick Start
+##  Quick Start
 
 ```bash
 # 1) Install dependencies
@@ -18,13 +18,13 @@ npm run preview
 
 > Requires Node 18+ and npm 9+.
 
-## 🧱 Tech Stack
+##  Tech Stack
 
 - **React 18** + **Vite** for a fast DX
 - **Tailwind CSS** for utility-first styling
 - **Lucide React** for crisp icons
 
-## 🧩 Structure
+##  Structure
 
 ```
 src/
@@ -42,7 +42,7 @@ tailwind.config.js
 postcss.config.js
 ```
 
-## 🎨 Design Choices
+##  Design Choices
 
 - **Clean, modern aesthetic** with soft shadows, rounded cards, and a single brand color (blue).
 - **Clear visual hierarchy**: big headline, concise subtext, primary CTA, supporting secondary CTA.
@@ -59,15 +59,15 @@ postcss.config.js
 - **Testimonials** in responsive grid.
 - **Footer** with clear contact and CTA.
 
-## 📸 Assets
+##  Assets
 
 Images are hotlinked from Unsplash for demo purposes. Replace with your own assets in `public/` and update the `src` in components for production use.
 
-## 🔗 Deployment
+##  Deployment
 
 - Push to a GitHub repo and connect to **Vercel**, **Netlify**, or GitHub Pages.
 - Example build command: `npm run build`, publish `dist/`.
 
 ---
 
-Made with ❤️ for the internship assignment.
+Made with heart for the internship assignment.
