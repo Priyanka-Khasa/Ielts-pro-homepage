@@ -66,11 +66,5 @@ postcss.config.js
 
 Images are hotlinked from Unsplash for demo purposes. Replace with your own assets in `public/` and update the `src` in components for production use.
 
-##  Deployment
-
-- Push to a GitHub repo and connect to **Vercel**, **Netlify**, or GitHub Pages.
-- Example build command: `npm run build`, publish `dist/`.
-
----
 
 Made with heart for the internship assignment.
